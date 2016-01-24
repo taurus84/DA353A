@@ -1,0 +1,20 @@
+Pippi,DVD,Lindgren A.,120,komedi,9.9
+Batman,Bluray,Nolan C.,152,Action,9.0
+Inception,Bluray,Nolan C.,148,Action,8.8
+Matrix,DVD,Wachovsky A.,136,Sci-Fi,8.7
+BraveHeart,DVD,Wallace R.,177,Biography,8.4
+Draktränaren,Bluray,Deblois D.,98,Animation,8.2
+Birdman,DVD,Inarritu A.G.,119,Komedi,8.2
+Glitter,DVD,Curtis-Hall V.,104,Music,2.1
+Titanic,Bluray,Cameron J.,194,Drama,7.7
+Titanic,DVD,Cameron J.,194,Drama,7.7
+Avatar,Bluray,Cameron J.,162,Fantasy,7.9
+Terminator,DVD,Cameron J.,107,Action,8.1
+Cocktail,DVD,Donaldson R.,104,Drama,5.8
+Argo,Bluray,Affleck B.,120,Drama,7.8
+Gladiator,DVD,Scott R.,155,Action,8.5
+Troja,Bluray,Petersen W.,163,Adventure,7.2
+Alien,DVD,Scott R.,117,Horror,8.5
+Rain Man,DVD,Levinson B.,133,Drama,8.0
+Amadeus,DVD,Forman M.,160,Biography,8.4
+Gökboet,DVD,Forman M.,133,Drama,8.7 
